@@ -1,0 +1,56 @@
+1 3 2 2
+1111
+Dang Hung Cuong
+12/12/1992
+TP.Thu Duc, HCM
+32.5
+1/1/2015
+1142
+Nguyen Gia Han
+31/12/1996
+TP.Di An, Binh Duong
+21.5
+10/6/2017
+5000000
+1167
+Nguyen Le Duy Khang
+15/6/1997
+TP.Di An, Binh Duong
+17.5
+15/8/2018
+3000000
+1189
+Tran Ngoc Thuy Chi
+20/12/1999
+TP.Di An, Binh Duong
+15.0
+15/8/2017
+1000000
+1259
+Tran Thi Thanh Hien
+19/01/2002
+Q.10 TP.HCM
+10
+15/5/2017
+0
+1269
+Le Huyen Bao Khang
+31/2/1999
+TP.Di An, Binh Duong
+12
+20/2/2016
+1000000
+1302
+Le Huynh Dang Khoa
+15/1/1997
+TP.Di An, Binh Duong
+22.5
+30/7/2016
+10
+1358
+Tran Nguyen Gia Han
+1/1/1998
+TP.Di An, Binh Duong
+20
+1/1/2017
+5
