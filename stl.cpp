@@ -49,6 +49,7 @@ int find(vector<int> value, int index) {
 		temp += value[i];
 		if (index <= temp - 1)return i;
 	}
+	return -1;
 }
 int main() {
 	vector<int> value;
