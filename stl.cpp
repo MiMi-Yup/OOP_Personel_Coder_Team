@@ -73,12 +73,12 @@ int main() {
 			string name, birth, address, dayWork;
 			double CS;
 			cin >> id;
-			int a = getchar();
+			cin.ignore();
 			getline(cin, name);
 			getline(cin, birth);
 			getline(cin, address);
 			cin >> CS;
-			a = getchar();
+			cin.ignore();
 			getline(cin, dayWork);
 			if (i == 0) {
 				personels.push_back(new Manager(id, name, birth, address, CS, dayWork));
